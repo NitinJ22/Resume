@@ -1,0 +1,57 @@
+body{
+  font-family: 'Cormorant Garamond', serif;
+  /* font-family: 'Alegreya SC', serif; */
+}
+
+/* Profile */
+.main-profile{
+  padding: 15px;
+  background-color: #162447;
+  color: white;
+}
+
+#heading{
+  color: #e97171;
+}
+
+img{
+  height: 160px;
+  width: 60%;
+  margin-left: 40px;
+  border-radius: 50%;
+  border: 3px solid #e97171;
+  padding: 5px;
+}
+
+.contact-bar{
+  background-color: #1b1b2f;
+  color: white;
+  text-align: center;
+}
+.social-icon {
+  margin: 10px 10px;
+}
+
+/* Resume details */
+.skill-icon{
+  margin: 2px;
+  color: #52575d;
+}
+
+#location{
+  text-align: right;
+}
+
+#main-heading{
+  text-decoration: underline;
+  color: #e97171;
+}
+
+#subtext{
+  color: #e97171;
+  font-weight: bold;
+}
+
+#base-heading{
+  text-decoration-style: solid;
+}
